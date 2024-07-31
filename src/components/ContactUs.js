@@ -18,9 +18,9 @@ const ContactUs = () => {
                   <p>Our customer support team is available 24/7.</p>
                   <p>
                     Reach out to us via email at{" "}
-                    <a href="mailto: krishnassss365@.com">
+                    <a href="mailto: rohitsingh2371999@.com">
                       {" "}
-                      krishnassss365@gmail.com
+                      rohitsingh2371999@gmail.com
                     </a>{" "}
                     or through our Contact Form.
                   </p>
