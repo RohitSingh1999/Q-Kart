@@ -1,6 +1,6 @@
 
 .content {
-  background-image: url("../assets/hero_image.png");
+  background-image: url("../assets/hero2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -21,7 +21,7 @@
 }
 
 .title {
-  color: #00a278;
+  color: #6f5370;;
 }
 
 .secondary-action {
@@ -31,27 +31,27 @@
 .link {
   font-weight: 700;
   text-decoration: none;
-  color: #45c09f;
+  color: #6f5370;;
 }
 
 .link:focus {
-  color: #00a278;
+  color: #6f5370;;
 }
 
 .link:active {
-  color: #45c09f;
+  color: #6f5370;
 }
 
 .link:visited {
-  color: #45c09f;
+  color: #6f5370;;
 }
 
 .button {
-  background-color: #00a278 !important;
+  background-color: #6f5370 !important;
 }
 
 .button:hover {
-  background-color: #00845c !important;
+  background-color: #6f5370 !important;
 }
 
 @media screen and (max-width: 768px) {

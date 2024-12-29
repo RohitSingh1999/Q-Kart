@@ -48,7 +48,7 @@ const Header = ({ children, hasHiddenAuthButtons }) => {
             <Button
               className="header-title"
               variant="text"
-              style={{ color: "#47c09f" }}
+              style={{ color: "#6f5370" }}
               onClick={() => {
                 navigate("/login");
               }}
@@ -59,7 +59,7 @@ const Header = ({ children, hasHiddenAuthButtons }) => {
             <Button
               className="header-title"
               variant="contained"
-              style={{ backgroundColor: "#47c09f" }}
+              style={{ backgroundColor: "#6f5370" }}
               onClick={() => {
                 navigate("/register");
               }}

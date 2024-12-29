@@ -46,7 +46,7 @@ const ProductCard = ({ product, handleAddToCart }) => {
           color="primary"
           variant="contained"
           fullWidth
-          style={{ backgroundColor: "#47c09f" }}
+          style={{ backgroundColor: "#6f5370" }}
           onClick={(e) => handleAddToCart()}
           className="card-button"
         >
