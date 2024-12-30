@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <Box className="footer">
-      <Box>
-        <img src="logo_dark.svg" alt="QKart-icon"></img>
+      <Box className="logo">
+        <img src="logo3.png" alt="QKart-icon"></img>
       </Box>
       <Box className="footer-social">
         <Link to="/contact-us" className="footer-link">

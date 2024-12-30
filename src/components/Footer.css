@@ -24,6 +24,10 @@
 .footer-social {
   margin: 1rem 0;
 }
+.logo img{
+  height: 100px;
+  
+}
 
 
 @media screen and (min-width: 768px) {
